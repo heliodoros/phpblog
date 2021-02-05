@@ -5,4 +5,4 @@ Installation:
 
 Import the .sql file into your database
 
-Edit the onfig.php file accordingly
+Edit the config.php file accordingly
